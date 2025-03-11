@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Ramyaburela
+- 👀 I’m interested in my personal projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to open-source projects and web development.
+- 📫 How to reach me-
+- mail-ramyaburela2004@gmail.com
+- linkdin-https://www.linkedin.com/in/ramya-burela-238449354/
+- 🤔 I’m looking for help with: Learning new languages and frameworks.
+-
+- My Skills
+- Languages: Python,Java
+
